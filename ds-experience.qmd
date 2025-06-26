@@ -1,7 +1,7 @@
 ---
 title: "Data Science Experience"
-subtitle: "<Name of the Experience>"
-author: "Add your name here"
+subtitle: "Developing Criminal Networks with Inadequate Data"
+author: "Joey Garcia"
 categories: "Lab"
 
 ---
@@ -16,12 +16,15 @@ categories: "Lab"
 
 ## Part 1: Experience data science outside of the classroom {#part-1-experience-data-science-outside-of-the-classroom}
 
-Give the information for the experience. 
+Category 3: Listen to a podcast / watch video. 
+
+Listened to Data Skeptic Podcast and the interview with Justin Wang Ngai Yeung (PhD candidate). https://dataskeptic.com/blog/episodes/2025/criminal-networks
 
 ## Part 2: Summarize your experience {#part-2-summarize-your-experience}
 
 Summary: 
 
+In the Data Skeptic podcast, Justin Wang Ngai Yeung from the Network Science Institute at Northeastern University in London discussed the challenges of applying social network analysis to criminal networks. He emphasized the difficulty of identifying meaningful relationships when working with incomplete or unreliable data, often collected by law enforcement agencies. Despite the abundance of available data, much of it is considered "garbage," making it hard to confidently predict an organization's structure. Notably, Yeung explained that understanding at least 50-60% of a criminal network is often necessary to accurately predict its hierarchy, yet the available data typically falls short of that threshold. The podcast reinforced the real-world importance of data wrangling skills and highlighted the need for algorithmic solutions, like social network analysis, to uncover hidden structures and relationships within complex datasets.
 
 ## Submission {#submission}
 
